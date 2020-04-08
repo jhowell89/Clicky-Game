@@ -10,4 +10,5 @@ Click game built with React to track clicks and present the user with a score. T
 4. I can see the score for my current round.
 5. I can see my high score for my current session.
 
-Now, please enjoy the game!!!!
+Now, please enjoy the game with link below!!!!
+https://howells-game.herokuapp.com/
